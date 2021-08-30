@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning 
   - Java,
   - Javascript
+  - HTML
+  - CSS
