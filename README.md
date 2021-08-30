@@ -7,4 +7,4 @@
   - HTML
   - CSS
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=ExcessiveSodium&layout=compact)
+![ExcessiveSodium's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ExcessiveSodium&layout=compact)
