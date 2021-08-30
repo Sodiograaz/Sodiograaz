@@ -7,4 +7,4 @@
   - HTML
   - CSS
 
-![ExcessiveSodium's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ExcessiveSodium&layout=compact) ![ExessiveSodium's stats](https://github-readme-stats.vercel.app/api?username=ExcessiveSodium&show_icons=true)
+![ExcessiveSodium's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ExcessiveSodium&layout=compact&theme=radical) ![ExessiveSodium's stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radicalhow_icons=true)
