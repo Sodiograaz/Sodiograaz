@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ExcessiveSodium
+- 👋 Hi, I’m @IllegalNatrium
 - 👀 I’m interested in 
   - Coding 💻
 - 🌱 I’m currently learning 
